@@ -1,0 +1,9 @@
+C:\Users\ILHAM POHAN\Documents\SharpDevelop Projects\STAApp\STAApp\bin\Debug\STAApp.exe.config
+C:\Users\ILHAM POHAN\Documents\SharpDevelop Projects\STAApp\STAApp\bin\Debug\STAApp.exe
+C:\Users\ILHAM POHAN\Documents\SharpDevelop Projects\STAApp\STAApp\bin\Debug\STAApp.pdb
+C:\Users\ILHAM POHAN\Documents\SharpDevelop Projects\STAApp\STAApp\obj\Debug\STAApp.csprojResolveAssemblyReference.cache
+C:\Users\ILHAM POHAN\Documents\SharpDevelop Projects\STAApp\STAApp\obj\Debug\STAApp.MainForm.resources
+C:\Users\ILHAM POHAN\Documents\SharpDevelop Projects\STAApp\STAApp\obj\Debug\STAApp.csproj.GenerateResource.Cache
+C:\Users\ILHAM POHAN\Documents\SharpDevelop Projects\STAApp\STAApp\obj\Debug\STAApp.exe
+C:\Users\ILHAM POHAN\Documents\SharpDevelop Projects\STAApp\STAApp\obj\Debug\STAApp.pdb
+C:\Users\ILHAM POHAN\Documents\SharpDevelop Projects\STAApp\STAApp\obj\Debug\STAApp.Form1.resources
